@@ -1,7 +1,7 @@
 """
 This file demonstrates how to solve realizations of the Taxicab problem either to optimality or
 via Value Function Approximation. It accompanies the paper "A Tutorial on Value Function Approximation for
-Stochastic and Dynamic Transportation" by Arne Heinold.
+Stochastic and Dynamic Transportation" published as an Educational Paper in the 4OR journal by Arne Heinold (https://doi.org/10.1007/s10288-023-00539-3).
 
 Please see the GitHub-Project for updates:
 https://github.com/aheiX/Tutorial-on-Value-Function-Approximation
@@ -15,7 +15,7 @@ import os
 import pandas as pd
 import random
 
-# all figures will be stored in the follwing folder
+# all figures will be stored in the following folder
 output_folder = 'output/'
 
 # create folder if not exists
